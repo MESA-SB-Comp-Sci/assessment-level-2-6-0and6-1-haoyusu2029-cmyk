@@ -2,3 +2,33 @@
     box-sizing: border-box;
 }
 
+.head {
+    background-color:pink;
+    color:white;
+}
+
+.p1 {
+    color:yellow;
+}
+
+.p2 { 
+    color:lightgreen;
+}
+
+.p3 {
+    color:cyan;
+}
+
+.border1 {
+    border: 5px orange solid;
+    padding:20px;
+    background-color: white;
+    color:black;
+    
+}
+
+
+html {
+    background-color: black;
+    color:white;
+}
