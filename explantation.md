@@ -6,7 +6,7 @@ For .p1 i saw that it was yellow so i just did color:yellow; same for .p2 but th
 
 For .border1 i added a border that was orange solid as shown with the mock model and then i made the padding to make the box holding the text larger and also changed background color to white with the text being black
 
-I changed the background color black by using html and changed the remaining texts white.
+I changed the background color black by targeting html and changed the remaining texts white.
 
 
 
